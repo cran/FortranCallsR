@@ -1,0 +1,1 @@
+FFLAGS=-O0 -Wall -w
